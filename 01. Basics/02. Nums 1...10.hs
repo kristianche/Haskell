@@ -1,0 +1,11 @@
+main = do
+    putStrLn("1")
+    putStrLn("2")
+    putStrLn("3")
+    putStrLn("4")
+    putStrLn("5")
+    putStrLn("6")
+    putStrLn("7")
+    putStrLn("8")
+    putStrLn("9")
+    putStrLn("10")
