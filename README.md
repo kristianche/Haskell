@@ -7,3 +7,4 @@
 # Tasks - Here you will find all the tasks which i have done
 
 01. Basics: https://judge.softuni.org/Contests/2423/First-Steps-in-Coding-Lab
+02. Basics-Exercise: https://judge.softuni.org/Contests/Compete/Index/2424#0
